@@ -22,3 +22,4 @@
 //Notación de corchetes: Forma de hacer el llamado a lo que se cuentre en la clave y valor del objeto deseado
 //escribiendo la clave y luego colocando entre corchetes y comillas el valor:
 //ej: key['value'];
+//
