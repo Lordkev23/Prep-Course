@@ -4,6 +4,7 @@
 const nuevaString = 'Hola a todos'; 
 
 let prueba = true; //provando nueva instalacion de git//
+let prueba2 = false; //provando nueva instalacion de git//
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 23;
